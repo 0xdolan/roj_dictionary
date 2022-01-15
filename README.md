@@ -44,13 +44,13 @@ Note:
 
 - **CSS** **file** **SHOULD NOT be renamed**
 
-[Download MDX]("./roj_dictionary.mdx)
+[Download MDX](https://github.com/dolanskurd/roj_dictionary/blob/main/roj_dictionary.mdx)
 
 Download MDD (N/A)
 
-[Download CSS]("./style.css")
+[Download CSS](https://github.com/dolanskurd/roj_dictionary/blob/main/style.css)
 
-[Download Dictionary Icon]("./roj_dictionary.png")
+[Download Dictionary Icon](https://github.com/dolanskurd/roj_dictionary/blob/main/roj_dictionary.png)
 
 ## Used Fonts
 
