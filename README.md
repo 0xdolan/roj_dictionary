@@ -54,7 +54,7 @@ Download MDD (N/A)
 
 ## Used Fonts
 
-[Roboto Font](https://fonts.google.com/specimen/Roboto)
+[Outfit Font](https://fonts.google.com/specimen/Outfit)
 
 [Sahel Font](https://github.com/rastikerdar/sahel-font/)
 
