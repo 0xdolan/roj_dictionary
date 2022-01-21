@@ -58,6 +58,18 @@ Download MDD (N/A)
 
 [Sahel Font](https://github.com/rastikerdar/sahel-font/)
 
+## Screenshots
+
+![screenshots_01](/screenshots/mobile/IMG_5926.PNG)
+
+![screenshots_02](/screenshots/mobile/IMG_5927.PNG)
+
+![screenshots_03](/screenshots/mobile/IMG_5928.PNG)
+
+![screenshots_04](/screenshots/mobile/IMG_5929.PNG)
+
+![screenshots_05](/screenshots/mobile/IMG_5930.PNG)
+
 ## Usage Instructions
 
 ### How to transfer dictionary files into your device?
